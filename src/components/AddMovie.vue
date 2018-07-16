@@ -52,7 +52,7 @@ export default {
   }),
   methods: {
     submit() {
-      if (this.$refs.form.validate()){
+      if (this.$refs.form.validate()) {
         // Perform next action
       }
     },
